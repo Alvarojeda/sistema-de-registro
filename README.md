@@ -6,4 +6,4 @@
 
 ``` npm install reat```
 
-sistema de registro 2
+Sistema de registro 2
